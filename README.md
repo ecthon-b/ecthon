@@ -1,18 +1,24 @@
-# Oi! Eu sou Ecthon Almeida. 👋
+<h1 align="center"> Oi! Eu sou Ecthon Almeida. 👋
 
-##  Sou formado em Sistemas de Informação pela Universidade Federal do Amazonas - UFAM, atualemente tenho me dedicado a estudar tecnologias voltado para área Front End (HTML, CSS e JavaScript).
+<h3> Sou formado em Sistemas de Informação pela Universidade Federal do Amazonas - UFAM, atualmente tenho me dedicado a estudar tecnologias voltadas para <strong>Desenvolvimento Web</strong>  (HTML, CSS, JavaScript etc).<br>Ah, outro assunto que amo estudar também é sobre <strong>UX/UI</strong>, até já me arrisquei a desenvolver uns protótipos usando o Figma, e olha só... deu certo! hehe</h3>
 
-# My stats
+<br>
+<br>
+<h2 align="center">📚 Um pouco do que ando estudando e práticando</h2>
 
 <center>
-	<table>
-		<tr>
-			<td>
-				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecthon&show_icons=true&langs_count=10&layout=compact&theme=buefy&count_private=true"/>
-			</td>
-			<td>
-				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=ecthon&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/>
-			</td>
-		</tr>
-	</table>
+				<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecthon&show_icons=true&langs_count=10&layout=compact&text_color=daf7dc&bg_color=262939"/>
 </center>
+
+<br>
+<br>
+<h2 align="center">🗺️ &nbsp;Você também pode me encontrar por aqui...</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/ecthon/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ecthon-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ecthon/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ecthon-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ecthon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ecthon@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+<br>
+<br>
+
+### Com 💜 e um pouco de ☕ por [ecthon](https://github.com/ecthon).
