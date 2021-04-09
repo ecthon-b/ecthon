@@ -5,12 +5,12 @@
 <br>
 <br>
 <h2 align="center">📚 Um pouco do que ando estudando e praticando</h2>
-
+<br>
 <center>
-	<div>
+	<div align="center">
 		<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecthon&show_icons=true&langs_count=10&layout=compact&text_color=daf7dc&bg_color=262939"/>
 	</div>
-</center>
+<center>
 
 <br>
 <br>
