@@ -1,24 +1,33 @@
-<h1 align="center"> Oi! Eu sou Ecthon Almeida. 👋
-
-<h3> Sou formado em Sistemas de Informação pela Universidade Federal do Amazonas - UFAM, atualmente tenho me dedicado a estudar tecnologias voltadas para <strong>Desenvolvimento Web</strong>  (HTML, CSS, JavaScript etc).<br>Ah, outro assunto que amo estudar também é sobre <strong>UX/UI</strong>, até já me arrisquei a desenvolver uns protótipos usando o Figma, e olha só... deu certo! hehe</h3>
-
+<h1 align="center">Oi! Eu sou o Ecthon. 🖐🏻</h1>
+<div align="center">
+<img src="https://img.shields.io/static/v1?label=Overview&message=ecthon&color=f8efd4&style=for-the-badge&logo=GitHub">
+</div>
 <br>
 <br>
-<h2 align="center">📚 Um pouco do que ando estudando e praticando</h2>
+
+<p align="justify">
+
+ Formado em **Sistemas de Informação** pela Universidade Federal do Amazonas - UFAM, atualmente trabalho como desenvolvedor **Front-End** na Triplano.<br><br>
+ Gosto de estudar tecnologias relacionadas ao **Desenvolvimento Web** e também, por pura diversão, me aventuro no mundo de **UI Design**.
+
+</p>
+
+<hr>
+<h2 align="center">📚 Um pouco do que ando estudando e praticando.</h2>
 <br>
 <center>
 	<div align="center">
-		<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecthon&show_icons=true&langs_count=10&layout=compact&text_color=daf7dc&bg_color=262939"/>
+		<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecthon&hide=html&layout=compact&theme=tokyonight"/>
 	</div>
 <center>
 
+<hr>
 <br>
-<br>
-<h2 align="center">🗺️ &nbsp;Você também pode me encontrar por aqui...</h2>
+<h2 align="center">🗺️ &nbsp;Você também pode me encontrar por aqui.</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/ecthon/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ecthon-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ecthon/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ecthon-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:ecthon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ecthon@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ecthon/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=ecthon&color=f8efd4&style=for-the-badge&logo=linkedin"> | </a>
+<a href="https://www.instagram.com/ecthon/"><img alt="instagram" src="https://img.shields.io/static/v1?label=Instagram&message=ecthon&color=f8efd4&style=for-the-badge&logo=instagram"> | </a>
+<a href="mailto:ecthon@gmail.com"><img alt="Gmail" src="https://img.shields.io/static/v1?label=gmail&message=ecthon&color=f8efd4&style=for-the-badge&logo=gmail"></a>
 </p>
 <br>
 <br>
