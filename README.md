@@ -7,8 +7,7 @@
 
 <p align="justify">
 
- Formado em **Sistemas de Informação** pela Universidade Federal do Amazonas - UFAM, atualmente trabalho como desenvolvedor **Front-End** na NetFly Technologies.<br><br>
- Gosto de estudar tecnologias relacionadas ao **Desenvolvimento Web** e também, por pura diversão, me aventuro no mundo de **UI Design**.
+ Formado em **Sistemas de Informação** pela Universidade Federal do Amazonas - UFAM, atualmente trabalho como desenvolvedor **Front-End** e UI Designer Freelancer.<br><br>
 
 </p>
 
