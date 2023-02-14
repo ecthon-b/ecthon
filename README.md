@@ -32,5 +32,3 @@
 <br>
 
 ### Com 💜 e um pouco de ☕ por [ecthon](https://github.com/ecthon).
-
-<img src="https://camo.githubusercontent.com/2e015c2fa13c8d82eb362ec9ef8537320e693a807e084213d4dc2bc9b60c69bf/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d61796b627269746f26636f6c6f723d79656c6c6f77" alt="Profile views" data-canonical-src="https://komarev.com/ghpvc/?username=ecthon&amp;color=yellow" style="max-width: 100%;">
